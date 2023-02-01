@@ -1,4 +1,5 @@
 import math
+duru = "güzelim"
 ELO_MIN = 1000 #elo alt sınırı
 UKD_MIN = 1000 #ukd alt sınırı
 ELOSUZ = 0 #elosu olmayan kişinin elosu
